@@ -7,13 +7,13 @@ export default function Home() {
       <div className="cursor"></div>
       <div className="header">
         <div className="logo">
-          <h1>$SHEEEEEEEEEESH</h1>
+          <img className="banner" src="/banner.jpg"></img>
         </div>
         <div className="links">
           <Link href="https://t.co/ImcSVY7lrm">
             <p>TELEGRAM for $SHEEEEEEEE</p>
           </Link>
-          <Link href="https://twitter.com/SHEEEEEEESH_SOL">
+          <Link href="https://twitter.com/SHEESH_ON_SOL">
             <p>TWITTER/X for $SHEEEEEEEE</p>
           </Link>
         </div>
