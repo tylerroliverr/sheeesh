@@ -67,6 +67,22 @@ h1 {
   align-items: center;
 }
 
+.lore {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 1rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.pop {
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
 .item img {
   width: 35dvw;
   border-radius: 5px;
@@ -125,5 +141,11 @@ h1 {
 
   .banner {
     width: 350px;
+  }
+
+  .lore {
+    font-size: 0.8rem;
+    padding: 0 1rem;
+    text-align: left;
   }
 }
