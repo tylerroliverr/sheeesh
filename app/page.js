@@ -11,10 +11,10 @@ export default function Home() {
         </div>
         <div className="links">
           <Link href="https://t.co/ImcSVY7lrm">
-            <p>TELEGRAM for $SHEEEEEEEE</p>
+            <p>TELEGRAM for $SHEEEEEEEESH</p>
           </Link>
           <Link href="https://twitter.com/SHEESH_ON_SOL">
-            <p>TWITTER/X for $SHEEEEEEEE</p>
+            <p>TWITTER/X for $SHEEEEEEEESH</p>
           </Link>
         </div>
       </div>
@@ -44,28 +44,28 @@ export default function Home() {
       <div className="hero">
         <div className="item">
           <img src="/images2.jpg"></img>
-          <p>$SHEEEEEEEEE</p>
+          <p>$SHEEEEEEEEESH</p>
         </div>
         <div className="item">
           <img src="/images1.webp"></img>
-          <p>caveman be like... WHERE MY $$$$SHEEEEEEEEEEEE</p>
+          <p>caveman be like... WHERE MY $$$$SHEEEEEEEEEEEESH</p>
         </div>
         <div className="item">
           <img src="/images.jpg"></img>
-          <p>wait, do u have money???? oh no, YES!!! is that $SHHEEEEEE?!?!?!?</p>
+          <p>wait, do u have money???? oh no, YES!!! is that $SHHEEEEEESH?!?!?!?</p>
         </div>
         <div className="item">
           <img src="/images3.jpg"></img>
-          <p>mmm pls gimmie that $SHEEEE</p>
+          <p>mmm pls gimmie that $SHEEEESH</p>
         </div>
         <div className="item">
           <img src="/images4.jpg"></img>
-          <p>how i feel when i buy $SHEEEEE</p>
+          <p>how i feel when i buy $SHEEEEESH</p>
         </div>
       </div>
       <div className="end">
-        <p>omg, pls i really need to buy SHEEEE rn......</p>
-        <p>nah, but fr, we are legit. we just love spongebob and his crew. SHEEEEEE</p>
+        <p>omg, pls i really need to buy SHEEEESH rn......</p>
+        <p>nah, but fr, we are legit. we just love spongebob and his crew. SHEEEEEESH</p>
       </div>
     </main>
   );
