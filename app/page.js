@@ -64,7 +64,10 @@ export default function Home() {
         </div>
       </div>
       <div className="end">
-        <p>omg, pls i really need to buy SHEEEESH rn......</p>
+        <p>omg, pls i really need to buy SHEEEESH rn...</p>
+        <br></br>
+        <Link href="https://www.pump.fun/BQS9J2NuxtjaidGtXKzTrsuhJ27VyqyZdZMU62xWC3f5">BUY</Link>
+        <br></br>
         <p>nah, but fr, we are legit. we just love spongebob and his crew. SHEEEEEESH</p>
       </div>
     </main>
